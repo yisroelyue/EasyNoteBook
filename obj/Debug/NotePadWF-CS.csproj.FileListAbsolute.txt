@@ -1,0 +1,12 @@
+C:\Users\16394\Source\Repos\NotepadWF-CS\bin\Debug\.NETpad.exe.config
+C:\Users\16394\Source\Repos\NotepadWF-CS\bin\Debug\.NETpad.exe
+C:\Users\16394\Source\Repos\NotepadWF-CS\bin\Debug\.NETpad.pdb
+C:\Users\16394\Source\Repos\NotepadWF-CS\obj\Debug\NotePadWF-CS.csproj.AssemblyReference.cache
+C:\Users\16394\Source\Repos\NotepadWF-CS\obj\Debug\NotePadWF_CS.AboutBox1.resources
+C:\Users\16394\Source\Repos\NotepadWF-CS\obj\Debug\NotePadWF_CS.Form1.resources
+C:\Users\16394\Source\Repos\NotepadWF-CS\obj\Debug\NotePadWF_CS.Properties.Resources.resources
+C:\Users\16394\Source\Repos\NotepadWF-CS\obj\Debug\NotePadWF-CS.csproj.GenerateResource.cache
+C:\Users\16394\Source\Repos\NotepadWF-CS\obj\Debug\NotePadWF-CS.csproj.CoreCompileInputs.cache
+C:\Users\16394\Source\Repos\NotepadWF-CS\obj\Debug\.NETpad.exe
+C:\Users\16394\Source\Repos\NotepadWF-CS\obj\Debug\.NETpad.pdb
+C:\Users\16394\Source\Repos\NotepadWF-CS\obj\Debug\BTW_CS.Properties.Resources.resources

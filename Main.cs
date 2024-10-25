@@ -614,7 +614,7 @@ namespace NotePadWF_CS
                 NumPages = printDialog1.PrinterSettings.MaximumPage;
                 PageNumber = 1;
             }
-
+             
             StrFmt.Dispose();
         }
 
